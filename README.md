@@ -55,7 +55,7 @@ I unearthed it around March 2026 and saved it to the Internet Archive.
 
 
 ### 3. Quick Japan vol.13 (April 25, 1997)
-In[ Quick Japan Vol.13 (ISBN 4-87233-329-2)](https://www.ohtabooks.com/qj100/archives/013/ ), a subculture magazine published by Ohta Publishing in Japan, there is a record of a conversation with [Yamataka EYE](https://en.wikipedia.org/wiki/Yamantaka_Eye)that took place on January 30, 1997, in the green room at Osaka Bayside Jenny, along with dated photographs and live photos from the event. Aphex Twin has described his performance in Osaka that day as “the second-best of his life.”
+In[ Quick Japan Vol.13] (https://www.ohtabooks.com/qj100/archives/013/ )(ISBN 4-87233-329-2), a subculture magazine published by Ohta Publishing in Japan, there is a record of a conversation with [Yamataka EYE](https://en.wikipedia.org/wiki/Yamantaka_Eye)that took place on January 30, 1997, in the green room at Osaka Bayside Jenny, along with dated photographs and live photos from the event. Aphex Twin has described his performance in Osaka that day as “the second-best of his life.”
 
 QuickJapan Vol.13  has been converted to PDF—including the cover, back cover, table of contents, dated color live photos, and the Aphex Twin and Yanmata EYE interview on pages 88–90—and saved to the Internet Archive.
 
