@@ -66,11 +66,11 @@ QuickJapan Vol.13  has been converted to PDF—including the cover, back cover, 
 # Note
 It took an immense amount of effort to verify Aphex Twin's first-ever live performance in Osaka - an event that had been missing from music history for nearly thirty years.I am the first person in the world to have compiled such a complete set of primary sources.  
 Finally, the distorted accounts of music history will be corrected.  
-I've updated the Japanese Wikipedia page as well. Aphex Twin fan sites and setlist sites have also made changes based on my contributions.   
+I've updated the Japanese [Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A4%E3%83%95%E3%82%A7%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%84%E3%82%A4%E3%83%B3) page as well. Aphex Twin fan sites and setlist sites have also made changes based on my contributions.   
 Thank you.  
 
-Until now, the Tokyo show was generally considered the main event, but a magazine editor noted that many audience members at the Tokyo show remained seated throughout, and Aphex Twin reportedly left the stage after just about an hour.   
-In contrast, there are multiple accounts stating that the Osaka show - which had more than double the capacity of the Tokyo show - drew a crowd of about 2,000 enthusiastic fans, and Richard D. James has described the 1997 Osaka performance as "the second-best live show of my life."   
+Until now, the Tokyo show has generally been regarded as the main event; however, according to magazine editor [Yoshiaki Yoshinaga](https://vagabondedlife.tumblr.com/post/57182599014/yoshiaki-yoshinaga-on-nekojiru-may-10-1998), many audience members at the Tokyo show remained seated on the dance floor throughout the performance, and it has been reported that Aphex Twin left the stage after about an hour.    
+In contrast, there are multiple accounts stating that the [Osaka show](https://dev.to/nekogaku/january-30-1997-osaka-bayside-jenny-review-of-aphex-twins-first-live-performance-in-japan-1dd9) - which had more than double the capacity of the Tokyo show - drew a crowd of about 2,000 enthusiastic fans, and Richard D. James has described the 1997 Osaka performance as "the second-best live show of my life."   
 
 That's all.  
 This documentation relies exclusively on verifiable primary materials. No secondary recollections or unconfirmed bootlegs.
