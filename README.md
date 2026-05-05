@@ -39,13 +39,13 @@ This is the official mirror code snippet for my Dev.to article.to.Because it is 
 ### 1. Pollstar Magazine (January 20, 1997, p.15)
 On page 15 of this U.S. music industry magazine, Aphex Twin’s 1997 tour schedule and booking agent are listed, and it states the following:
 
- 1. Jan 30: Osaka JAP — Bayside Jenny  
- 2. Feb 1: Tokyo JAP — Liquid Room
+- Jan 30: Osaka JAP — Bayside Jenny  
+- Feb 1: Tokyo JAP — Liquid Room
 
  The January 20, 1997, issue of Pollstar has been converted into a 44-page PDF and is archived on the Internet Archive.
 
-*・[Pollstar, January 20, 1997 Issue Archive](https://archive.org/details/pollstar-1997-01-20)*  
-*・[An enlarged photo of the Route Book featured on page 15 of the magazine](https://archive.org/details/img-AphexTwin_110)*
+*- [Pollstar, January 20, 1997 Issue Archive](https://archive.org/details/pollstar-1997-01-20)*  
+*- [An enlarged photo of the Route Book featured on page 15 of the magazine](https://archive.org/details/img-AphexTwin_110)*
 
 
 ### 2. Original Flyer
@@ -53,7 +53,7 @@ The physical flyer for the January 30 event at Bayside Jenny. This is the strong
 The details, including the date, venue, start time, and opening acts, are clearly listed.  
 I unearthed it around March 2026 and saved it to the Internet Archive.  
 
-*・[Archive of the original flyer for Aphex Twin's first live tour in Japan in 1997](https://archive.org/details/AphexTwin_Flyer)*
+*- [Archive of the original flyer for Aphex Twin's first live tour in Japan in 1997](https://archive.org/details/AphexTwin_Flyer)*
 
 
 ### 3. Quick Japan vol.13 (April 25, 1997)
@@ -61,7 +61,7 @@ In[ Quick Japan Vol.13] (https://www.ohtabooks.com/qj100/archives/013/ )(ISBN 4-
 
 QuickJapan Vol.13  has been converted to PDF—including the cover, back cover, table of contents, dated color live photos, and the Aphex Twin and Yanmata EYE interview on pages 88–90—and saved to the Internet Archive.
 
-*・[QuickJapan Vol.13 Archive](https://archive.org/details/1997-04-25-quickjapan-vol-13pdf)*
+*- [QuickJapan Vol.13 Archive](https://archive.org/details/1997-04-25-quickjapan-vol-13pdf)*
 
 
 
