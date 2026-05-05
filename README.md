@@ -79,3 +79,19 @@ Note that I have written a similar post on the Japanese free blogging service [n
 
 
 *May 5, 2026, from Japan.*
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": "The Truth Behind Aphex Twin's First Visit to Japan 1997",
+  "author": {
+    "@type": "Person",
+    "name": "catlogy1"
+  },
+  "datePublished": "2026-05-05",
+  "description": "Primary source research correcting the 29-year misconception of Aphex Twin's 1997 Japan tour schedule.",
+  "keywords": "Aphex Twin, Richard D. James, Music History, 1997, Japan Tour, Bayside Jenny"
+}
+</script>
