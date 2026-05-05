@@ -3,68 +3,69 @@
 This is the official mirror code snippet for my Dev.to article.to.Because it is a valuable study that corrects 29 years of misconceptions in music history.  
 For more details on Dev.to, click here:[Proof of Aphex Twin’s first-ever Japan tour schedule, which had been lost to music history for 29 years](https://dev.to/nekogaku/the-real-first-aphex-twin-live-pa-show-in-japan-osaka-bayside-jenny-january-30-1997-2533)
 
-#### The schedule for Aphex Twin’s first-ever Japan tour—which had been lost to music history for 29 years—is as follows.
+#### *The schedule for Aphex Twin’s first-ever Japan tour—which had been lost to music history for 29 years—is as follows.*
 
 # Conclusion
 
-### 1. Osaka Performance
+### 1. Osaka Performance  
 
- ・Venue: Osaka BAYSIDE Jenny
+・Venue: Osaka BAYSIDE Jenny  
+・Date and Time: Thursday, January 30, 1997 (Showtime: 6:00 p.m.)  
+・Capacity: Approximately 1,800–2,000 people
 
- ・Date and Time: Thursday, January 30, 1997 (Showtime: 6:00 p.m.)
+### 2. Tokyo Performance  
 
- ・Capacity: Approximately 1,800–2,000 people
-
-### 2. Tokyo Performance
-
- ・Venue: Shinjuku LIQUIDROOM
-
- ・Date and Time: Saturday, February 1, 1997(Showtime: 10:00 p.m.)
-
- ・Capacity: Approximately 700 –900 people
+・Venue: Shinjuku LIQUIDROOM  
+・Date and Time: Saturday, February 1, 1997(Showtime: 10:00 p.m.)  
+・Capacity: Approximately 700 –900 people
 
 # Support acts, booking agents, etc.
 
 ### 1.Support Act
 
-・DJ: Grant
-
-・Opening Live Act: Cylob
+・DJ: [Grant](https://en.wikipedia.org/wiki/Jono_Grant_(DJ) )  
+・Opening Live Act: [Cylob](https://en.wikipedia.org/wiki/Cylob)
 
 ### 2.Booking Agents
 
-・BA: Chaotica
-
-・BA: Value Added Talent (U.K.)
-
+・BA: Chaotica  
+・BA: [Value Added Talent (U.K.)](https://vathq.co.uk/)  
 ・RC: Sira
 
 # Primary Evidence
 
 ### 1. Pollstar Magazine (January 20, 1997, p.15)
-The U.S. music industry publication clearly lists the tour schedule:
+On page 15 of this U.S. music industry magazine, Aphex Twin’s 1997 tour schedule and booking agent are listed, and it states the following:
 
-1. Jan 30: Osaka JAP — Bayside Jenny
-2. Feb 1: Tokyo JAP — Liquid Room
+ 1. Jan 30: Osaka JAP — Bayside Jenny  
+ 2. Feb 1: Tokyo JAP — Liquid Room
 
-https://archive.org/details/pollstar-1997-01-20
+ The January 20, 1997, issue of Pollstar has been converted into a 44-page PDF and is archived on the Internet Archive.
+
+*・[Pollstar, January 20, 1997 Issue Archive](https://archive.org/details/pollstar-1997-01-20)*  
+*・[An enlarged photo of the Route Book featured on page 15 of the magazine](https://archive.org/details/img-AphexTwin_110)*
+
 
 ### 2. Original Flyer
 The physical flyer for the January 30 event at Bayside Jenny. This is the strongest direct proof of the first Live PA date.
+The details, including the date, venue, start time, and opening acts, are clearly listed.  
+I unearthed it around March 2026 and saved it to the Internet Archive.  
 
-https://archive.org/details/AphexTwin_Flyer
+*・[Archive of the original flyer for Aphex Twin's first live tour in Japan in 1997](https://archive.org/details/AphexTwin_Flyer)*
+
 
 ### 3. Quick Japan vol.13 (April 25, 1997)
-Contemporary Japanese magazine review confirms the Osaka show and includes Richard D. James stating it was "the second best live performance of my life."
+In[ Quick Japan Vol.13 (ISBN 4-87233-329-2)](https://www.ohtabooks.com/qj100/archives/013/ ), a subculture magazine published by Ohta Publishing in Japan, there is a record of a conversation with [Yamataka EYE](https://en.wikipedia.org/wiki/Yamantaka_Eye)that took place on January 30, 1997, in the green room at Osaka Bayside Jenny, along with dated photographs and live photos from the event. Aphex Twin has described his performance in Osaka that day as “the second-best of his life.”
 
-https://archive.org/details/1997-04-25-quickjapan-vol-13pdf
+QuickJapan Vol.13  has been converted to PDF—including the cover, back cover, table of contents, dated color live photos, and the Aphex Twin and Yanmata EYE interview on pages 88–90—and saved to the Internet Archive.
 
-#### All of the above evidence has been converted to PDF and stored on the Internet Archive, where it is available for anyone to view.
+*・[QuickJapan Vol.13 Archive](https://archive.org/details/1997-04-25-quickjapan-vol-13pdf)*
+
+
 
 # Note
 It took an immense amount of effort to verify Aphex Twin's first-ever live performance in Osaka - an event that had been missing from music history for nearly thirty years. I am the first person in the world to have compiled such a complete set of primary sources. Finally, the distorted accounts of music history will be corrected. I've updated the Japanese Wikipedia page as well. Aphex Twin fan sites and setlist sites have also made changes based on my contributions. Thank you.
 Until now, the Tokyo show was generally considered the main event, but a magazine editor noted that many audience members at the Tokyo show remained seated throughout, and Aphex Twin reportedly left the stage after just about an hour. In contrast, there are multiple accounts stating that the Osaka show - which had more than double the capacity of the Tokyo show - drew a crowd of about 2,000 enthusiastic fans, and Richard D. James has described the 1997 Osaka performance as "the second-best live show of my life."
 This documentation relies exclusively on verifiable primary materials. No secondary recollections or unconfirmed bootlegs.
 
-Further details, including photos, are available at the URL below. This corrects 29 years of inaccurate music history.
-https://dev.to/nekogaku/the-real-first-aphex-twin-live-pa-show-in-japan-osaka-bayside-jenny-january-30-1997-2533
+Note that I have written a similar post on the Japanese free blogging service [note](https://note.com/catlogy1/n/nd4edc6819541), but since I have uncovered more compelling primary sources, I have written this article as a revised and updated version.
