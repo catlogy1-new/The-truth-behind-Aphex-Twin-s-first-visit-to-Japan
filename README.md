@@ -1,7 +1,7 @@
 # Aphex Twin Japan Tour 1997: Rediscovering the "Lost" Schedule after 29 Years
 
 ## Summary
-** Reconstruction of Aphex Twin’s 1997 Japan tour using primary sources. **
+**Reconstruction of Aphex Twin’s 1997 Japan tour using primary sources.**
 
 This is the official mirror code snippet for my Dev.to article.to.Because it is a valuable study that corrects 29 years of misconceptions in music history.For more details on Dev.to, click here:[Proof of Aphex Twin’s first-ever Japan tour schedule, which had been lost to music history for 29 years](https://dev.to/nekogaku/the-real-first-aphex-twin-live-pa-show-in-japan-osaka-bayside-jenny-january-30-1997-2533)
 
@@ -39,8 +39,8 @@ This is the official mirror code snippet for my Dev.to article.to.Because it is 
 ### 1. Pollstar Magazine (January 20, 1997, p.15)
 On page 15 of this U.S. music industry magazine, Aphex Twin’s 1997 tour schedule and booking agent are listed, and it states the following:
 
-- ** Jan 30: Osaka JAP — Bayside Jenny **
-- ** Feb 1: Tokyo JAP — Liquid Room **
+- **Jan 30: Osaka JAP — Bayside Jenny**
+- **Feb 1: Tokyo JAP — Liquid Room**
 
  The January 20, 1997, issue of Pollstar has been converted into a 44-page PDF and is archived on the Internet Archive.
 
