@@ -64,8 +64,18 @@ QuickJapan Vol.13  has been converted to PDF—including the cover, back cover, 
 
 
 # Note
-It took an immense amount of effort to verify Aphex Twin's first-ever live performance in Osaka - an event that had been missing from music history for nearly thirty years. I am the first person in the world to have compiled such a complete set of primary sources. Finally, the distorted accounts of music history will be corrected. I've updated the Japanese Wikipedia page as well. Aphex Twin fan sites and setlist sites have also made changes based on my contributions. Thank you.
-Until now, the Tokyo show was generally considered the main event, but a magazine editor noted that many audience members at the Tokyo show remained seated throughout, and Aphex Twin reportedly left the stage after just about an hour. In contrast, there are multiple accounts stating that the Osaka show - which had more than double the capacity of the Tokyo show - drew a crowd of about 2,000 enthusiastic fans, and Richard D. James has described the 1997 Osaka performance as "the second-best live show of my life."
+It took an immense amount of effort to verify Aphex Twin's first-ever live performance in Osaka - an event that had been missing from music history for nearly thirty years.I am the first person in the world to have compiled such a complete set of primary sources.  
+Finally, the distorted accounts of music history will be corrected.  
+I've updated the Japanese Wikipedia page as well. Aphex Twin fan sites and setlist sites have also made changes based on my contributions.   
+Thank you.  
+
+Until now, the Tokyo show was generally considered the main event, but a magazine editor noted that many audience members at the Tokyo show remained seated throughout, and Aphex Twin reportedly left the stage after just about an hour.   
+In contrast, there are multiple accounts stating that the Osaka show - which had more than double the capacity of the Tokyo show - drew a crowd of about 2,000 enthusiastic fans, and Richard D. James has described the 1997 Osaka performance as "the second-best live show of my life."   
+
+That's all.  
 This documentation relies exclusively on verifiable primary materials. No secondary recollections or unconfirmed bootlegs.
 
 Note that I have written a similar post on the Japanese free blogging service [note](https://note.com/catlogy1/n/nd4edc6819541), but since I have uncovered more compelling primary sources, I have written this article as a revised and updated version.
+
+
+*May 5, 2026, from Japan.*
