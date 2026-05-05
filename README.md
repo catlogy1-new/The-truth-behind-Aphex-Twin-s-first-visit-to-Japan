@@ -88,7 +88,7 @@ Note that I have written a similar post on the Japanese free blogging service [n
   "headline": "The Truth Behind Aphex Twin's First Visit to Japan 1997",
   "author": {
     "@type": "Person",
-    "name": "catlogy1"
+    "name": "catlogy1-new"
   },
   "datePublished": "2026-05-05",
   "description": "Primary source research correcting the 29-year misconception of Aphex Twin's 1997 Japan tour schedule.",
