@@ -3,8 +3,7 @@
 ## Summary
 Reconstruction of Aphex Twin’s 1997 Japan tour using primary sources.
 
-This is the official mirror code snippet for my Dev.to article.to.Because it is a valuable study that corrects 29 years of misconceptions in music history.  
-For more details on Dev.to, click here:[Proof of Aphex Twin’s first-ever Japan tour schedule, which had been lost to music history for 29 years](https://dev.to/nekogaku/the-real-first-aphex-twin-live-pa-show-in-japan-osaka-bayside-jenny-january-30-1997-2533)
+This is the official mirror code snippet for my Dev.to article.to.Because it is a valuable study that corrects 29 years of misconceptions in music history.For more details on Dev.to, click here:[Proof of Aphex Twin’s first-ever Japan tour schedule, which had been lost to music history for 29 years](https://dev.to/nekogaku/the-real-first-aphex-twin-live-pa-show-in-japan-osaka-bayside-jenny-january-30-1997-2533)
 
 #### *The schedule for Aphex Twin’s first-ever Japan tour—which had been lost to music history for 29 years—is as follows.*
 
@@ -12,28 +11,28 @@ For more details on Dev.to, click here:[Proof of Aphex Twin’s first-ever Japan
 
 ### 1. Osaka Performance  
 
-・Venue: Osaka BAYSIDE Jenny  
-・Date and Time: Thursday, January 30, 1997 (Showtime: 6:00 p.m.)  
-・Capacity: Approximately 1,800–2,000 people
+- Venue: Osaka BAYSIDE Jenny  
+- Date and Time: Thursday, January 30, 1997 (Showtime: 6:00 p.m.)  
+- Capacity: Approximately 1,800–2,000 people
 
 ### 2. Tokyo Performance  
 
-・Venue: Shinjuku LIQUIDROOM  
-・Date and Time: Saturday, February 1, 1997(Showtime: 10:00 p.m.)  
-・Capacity: Approximately 700 –900 people
+- Venue: Shinjuku LIQUIDROOM  
+- Date and Time: Saturday, February 1, 1997(Showtime: 10:00 p.m.)  
+- Capacity: Approximately 700 –900 people
 
 # Support acts, booking agents, etc.
 
 ### 1.Support Act
 
-・DJ: [Grant](https://en.wikipedia.org/wiki/Jono_Grant_(DJ) )  
-・Opening Live Act: [Cylob](https://en.wikipedia.org/wiki/Cylob)
+- DJ: [Grant](https://en.wikipedia.org/wiki/Jono_Grant_(DJ) )  
+- Opening Live Act: [Cylob](https://en.wikipedia.org/wiki/Cylob)
 
 ### 2.Booking Agents
 
-・BA: Chaotica  
-・BA: [Value Added Talent (U.K.)](https://vathq.co.uk/)  
-・RC: Sira
+- BA: Chaotica  
+- BA: [Value Added Talent (U.K.)](https://vathq.co.uk/)  
+- RC: Sira
 
 # Primary Evidence
 
