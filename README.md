@@ -44,7 +44,7 @@ On page 15 of this U.S. music industry magazine, Aphex Twin’s 1997 tour schedu
 
  The January 20, 1997, issue of Pollstar has been converted into a 44-page PDF and is archived on the Internet Archive.
 
-- * [Pollstar, January 20, 1997 Issue Archive](https://archive.org/details/pollstar-1997-01-20)*  
+- *[Pollstar, January 20, 1997 Issue Archive](https://archive.org/details/pollstar-1997-01-20)*  
 - *[An enlarged photo of the Route Book featured on page 15 of the magazine](https://archive.org/details/img-AphexTwin_110)*
 
 
@@ -53,7 +53,7 @@ The physical flyer for the January 30 event at Bayside Jenny. This is the strong
 The details, including the date, venue, start time, and opening acts, are clearly listed.  
 I unearthed it around March 2026 and saved it to the Internet Archive.  
 
-- * [Archive of the original flyer for Aphex Twin's first live tour in Japan in 1997](https://archive.org/details/AphexTwin_Flyer)*
+- *[Archive of the original flyer for Aphex Twin's first live tour in Japan in 1997](https://archive.org/details/AphexTwin_Flyer)*
 
 
 ### 3. Quick Japan vol.13 (April 25, 1997)
