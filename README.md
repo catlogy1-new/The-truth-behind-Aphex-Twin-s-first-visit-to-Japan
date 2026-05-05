@@ -1,5 +1,8 @@
 # Aphex Twin Japan Tour 1997: Rediscovering the "Lost" Schedule after 29 Years
 
+## Summary
+Reconstruction of Aphex Twin’s 1997 Japan tour using primary sources.
+
 This is the official mirror code snippet for my Dev.to article.to.Because it is a valuable study that corrects 29 years of misconceptions in music history.  
 For more details on Dev.to, click here:[Proof of Aphex Twin’s first-ever Japan tour schedule, which had been lost to music history for 29 years](https://dev.to/nekogaku/the-real-first-aphex-twin-live-pa-show-in-japan-osaka-bayside-jenny-january-30-1997-2533)
 
