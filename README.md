@@ -69,8 +69,7 @@ QuickJapan Vol.13  has been converted to PDF—including the cover, back cover, 
 
 
 # Note
-It took an immense amount of effort to verify Aphex Twin's first-ever live performance in Osaka - an event that had been missing from music history for nearly thirty years.I am the first person in the world to have compiled such a complete set of primary sources.  
-Finally, the distorted accounts of music history will be corrected.  
+It took a tremendous amount of effort to verify the schedule for Aphex Twin’s first visit to Japan, which had been missing from web archives and music history records for nearly 30 years.These primary sources will likely help correct the distorted accounts of music history.  
 I've updated the Japanese [Wikipedia](https://w.wiki/MkrW) page as well. Aphex Twin fan sites and setlist sites have also made changes based on my contributions. Thank you.  
 
 Until now, the Tokyo show has generally been regarded as the main event; however, according to magazine editor [Yoshiaki Yoshinaga](https://vagabondedlife.tumblr.com/post/57182599014/yoshiaki-yoshinaga-on-nekojiru-may-10-1998), many audience members at the Tokyo show remained seated on the dance floor throughout the performance, and it has been reported that Aphex Twin left the stage after about an hour.    
