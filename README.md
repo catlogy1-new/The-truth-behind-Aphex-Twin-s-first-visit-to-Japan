@@ -1,6 +1,6 @@
 ---
 title: Aphex Twin Japan Tour 1997 - Filling the 29-Year Gap with Evidence
-Overview: This book documents the full itinerary of Aphex Twin’s first Japan tour in 1997, based on primary sources such as *Pllostar* magazine, original flyers, and Japanese magazines from that era.
+Overview: This book documents the full itinerary of Aphex Twin’s first Japan tour in 1997, based on primary sources such as Pllostar magazine, original flyers, and Japanese magazines from that era.
 keywords: Aphex Twin, 1997, Japan Tour, music history, Bayside Jenny, Liquid Room
 image: https://github.com/user-attachments/assets/9fe56d3c-609d-4e1d-9b9b-6f9c91035194
 ---  
