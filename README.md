@@ -96,3 +96,7 @@ Also, this is the official mirror of the code snippet from my Dev.to article. Th
   "keywords": "Aphex Twin, Richard D. James, Music History, 1997, Japan Tour, Bayside Jenny"
 }
 -->
+
+_config.yml
+plugins:
+  - jekyll-sitemap
