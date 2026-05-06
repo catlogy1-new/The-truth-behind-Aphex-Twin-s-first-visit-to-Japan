@@ -5,9 +5,11 @@ keywords: Aphex Twin, 1997, Japan Tour, music history, Bayside Jenny, Liquid Roo
 image: https://github.com/catlogy1-new/The-truth-behind-Aphex-Twin-s-first-visit-to-Japan/blob/main/Aphex%20Twin%20-%201997%20-%20First%20Japan%20Tour%20-%20Flyer.png  
 ---  
 
-# Aphex Twin Japan Tour 1997: Rediscovering the "Lost" Schedule after 29 Years  
+# Aphex Twin Japan Tour 1997: Rediscovering the "Lost" Schedule after 29 Years 
+
 
 <img src="./Aphex Twin - 1997 - First Japan Tour - Flyer.png" alt="Aphex Twin flyer">
+
 
 ## Summary
 - **Reconstruction of Aphex Twin's 1997 Japan tour using primary sources.**  
