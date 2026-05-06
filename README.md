@@ -7,8 +7,7 @@
 **Reconstruction of Aphex Twin’s 1997 Japan tour using primary sources.**  
   
 This page documents verified evidence of Aphex Twin’s 1997 Japan tour, including the Osaka Bayside Jenny show on January 30, 1997. Contrary to widely circulated misinformation, this article is based on primary sources such as original flyers and contemporaneous publications.  
-This serves as a corrected historical record.
-
+This serves as a corrected historical record.  
 he schedule for Aphex Twin’s first-ever Japan tour—which had been lost to music history for 29 years—is as follows.
 
 # Conclusion
