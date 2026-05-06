@@ -21,7 +21,7 @@ This is the official mirror code snippet for my Dev.to article.to.Because it is 
 - Date and Time: Saturday, February 1, 1997(Showtime: 10:00 p.m.)  
 - Capacity: Approximately 700 –900 people
 
-# Support acts, booking agents, etc.
+# Support acts,booking agents
 
 ### 1.Support Act
 
