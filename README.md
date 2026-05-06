@@ -97,6 +97,4 @@ Also, this is the official mirror of the code snippet from my Dev.to article. Th
 }
 -->
 
-_config.yml
-plugins:
-  - jekyll-sitemap
+
