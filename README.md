@@ -76,15 +76,15 @@ QuickJapan Vol.13  has been converted to PDF—including the cover, back cover, 
 
 
 # Note
-It took a tremendous amount of effort to verify the schedule for Aphex Twin's first visit to Japan, which had been missing from web archives and music history records for nearly 30 years.These primary sources will likely help correct the distorted accounts of music history.  
+- It took a tremendous amount of effort to verify the schedule for Aphex Twin's first visit to Japan, which had been missing from web archives and music history records for nearly 30 years.These primary sources will likely help correct the distorted accounts of music history.  
 I've updated the Japanese [Wikipedia](https://w.wiki/MkrW) page as well. Aphex Twin fan sites and setlist sites have also made changes based on my contributions. Thank you.  
 
-Until now, the Tokyo show has generally been regarded as the main event; however, according to magazine editor [Yoshiaki Yoshinaga](https://vagabondedlife.tumblr.com/post/57182599014/yoshiaki-yoshinaga-on-nekojiru-may-10-1998), many audience members at the Tokyo show remained seated on the dance floor throughout the performance, and it has been reported that Aphex Twin left the stage after about an hour.    
+- Until now, the Tokyo show has generally been regarded as the main event; however, according to magazine editor [Yoshiaki Yoshinaga](https://vagabondedlife.tumblr.com/post/57182599014/yoshiaki-yoshinaga-on-nekojiru-may-10-1998), many audience members at the Tokyo show remained seated on the dance floor throughout the performance, and it has been reported that Aphex Twin left the stage after about an hour.    
 In contrast, there are multiple accounts stating that the [Osaka show](https://dev.to/nekogaku/january-30-1997-osaka-bayside-jenny-review-of-aphex-twins-first-live-performance-in-japan-1dd9) - which had more than double the capacity of the Tokyo show - drew a crowd of about 2,000 enthusiastic fans, and Richard D. James has described the 1997 Osaka performance as "the second-best live show of my life."   
 
-This documentation relies exclusively on verifiable primary materials. No secondary recollections or unconfirmed bootlegs.
+- This documentation relies exclusively on verifiable primary materials. No secondary recollections or unconfirmed bootlegs.
 
-Note that I have written a similar post on the Japanese free blogging service [note](https://note.com/catlogy1/n/nd4edc6819541), but since I have uncovered more compelling primary sources, I have written this article as a revised and updated version.  
+ -Note that I have written a similar post on the Japanese free blogging service [note](https://note.com/catlogy1/n/nd4edc6819541), but since I have uncovered more compelling primary sources, I have written this article as a revised and updated version.  
 Also, this is the official mirror of the code snippet from my Dev.to article. That's because it's a highly valuable piece of research that corrects a 29-year-old misconception in music history. For more information about Dev.to, please click here::[Proof of Aphex Twin's first-ever Japan tour schedule, which had been lost to music history for 29 years](https://dev.to/nekogaku/the-real-first-aphex-twin-live-pa-show-in-japan-osaka-bayside-jenny-january-30-1997-2533)
 
 *May 5, 2026, from Japan.*
