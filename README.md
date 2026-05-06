@@ -2,13 +2,14 @@
 title: Aphex Twin Japan Tour 1997 - Filling the 29-Year Gap with Evidence
 Description: Based on primary sources, this work documents Apex Twin’s first tour of Japan in 1997, an event that had been lost to music history for approximately 30 years.
 keywords: Aphex Twin, 1997, Japan Tour, music history, Bayside Jenny, Liquid Room
-image: https://github.com/user-attachments/assets/9fe56d3c-609d-4e1d-9b9b-6f9c91035194
+image:https://github.com/user-attachments/assets/dcf88aed-edc1-40df-92a4-c6998efcdeaa
 ---
 
 # Aphex Twin Japan Tour 1997: Rediscovering the "Lost" Schedule after 29 Years
 
 <p align="center">
- <img width="800" alt="1997: Flyer for Aphex Twin's Japan Tour" src="https://github.com/user-attachments/assets/9fe56d3c-609d-4e1d-9b9b-6f9c91035194" /></p>
+<img width="844" height="590" alt=""1997: Flyer for Aphex Twin's Japan Tour" src="https://github.com/user-attachments/assets/dcf88aed-edc1-40df-92a4-c6998efcdeaa" />
+</p>
 
 ## Summary
 **Reconstruction of Aphex Twin's 1997 Japan tour using primary sources.**  
