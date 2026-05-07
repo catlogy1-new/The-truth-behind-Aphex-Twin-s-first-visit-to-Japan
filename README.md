@@ -8,7 +8,7 @@ image: Aphex Twin first visit to Japan,1997-Flyer
 # Aphex Twin Japan Tour 1997: Rediscovering the "Lost" Schedule after 29 Years   
 
 <p align="center">  
-  <img width="900" alt="Aphex Twin  1997  Japan Tour  Flye" src="The-truth-behind-Aphex-Twin-s-first-visit-to-Japan/Aphex Twin - Flyer.jpg" >  
+  <img width="900" alt="Aphex Twin  1997  Japan Tour  Flye" src="Aphex Twin - Flyer.jpg">  
 </p>
 
 ## Summary
