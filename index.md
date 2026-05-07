@@ -23,8 +23,8 @@ The schedule for Aphex Twin's first-ever Japan tour—which had been lost to mus
 ## Conclusion
 
 ### 1. Osaka Performance
-- Venue: Osaka BAYSIDE Jenny  
-- Date and Time: Thursday, January 30, 1997 (Showtime: 6:00 p.m.)  
+- Venue: Osaka BAYSIDE Jenny
+- Date and Time: Thursday, January 30, 1997 (Showtime: 6:00 p.m.)
 - Capacity: Approximately 1,800–2,000 people
 
 ### 2. Tokyo Performance
