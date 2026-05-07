@@ -19,7 +19,7 @@ This page documents verified evidence of Aphex Twin's 1997 Japan tour, including
 This serves as a corrected historical record.  
 The schedule for Aphex Twin's first-ever Japan tour—which had been lost to music history for 29 years—is as follows.
 
-# Conclusion
+## Conclusion
 
 ### 1. Osaka Performance
 - Venue: Osaka BAYSIDE Jenny  
@@ -31,7 +31,7 @@ The schedule for Aphex Twin's first-ever Japan tour—which had been lost to mus
 - Date and Time: Saturday, February 1, 1997 (Showtime: 10:00 p.m.)  
 - Capacity: Approximately 700–900 people
 
-# Support acts, booking agents
+## Support acts, booking agents
 
 ### 1. Support Act
 - DJ: [Grant](https://en.wikipedia.org/wiki/Jono_Grant_(DJ))  
@@ -42,7 +42,7 @@ The schedule for Aphex Twin's first-ever Japan tour—which had been lost to mus
 - BA: [Value Added Talent (U.K.)](https://vathq.co.uk/)  
 - RC: Sira
 
-# Primary Evidence
+## Primary Evidence
 
 ### 1. Pollstar Magazine (January 20, 1997, p.15)
 On page 15 of this U.S. music industry magazine, Aphex Twin's 1997 tour schedule and booking agent are listed:
@@ -70,7 +70,7 @@ The entire issue has been converted to PDF and archived:
 
 - *[QuickJapan Vol.13 Archive](https://archive.org/details/1997-04-25-quickjapan-vol-13pdf)*
 
-# Note
+#3 Note
 - It took a tremendous amount of effort to verify the schedule for Aphex Twin's first visit to Japan, which had been missing from web archives and music history records for nearly 30 years. These primary sources will likely help correct distorted accounts of music history.  
 I have updated the Japanese [Wikipedia](https://w.wiki/MkrW) page as well.
 
