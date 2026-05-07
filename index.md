@@ -70,7 +70,7 @@ The entire issue has been converted to PDF and archived:
 
 - *[QuickJapan Vol.13 Archive](https://archive.org/details/1997-04-25-quickjapan-vol-13pdf)*
 
-#3 Note
+## Note
 - It took a tremendous amount of effort to verify the schedule for Aphex Twin's first visit to Japan, which had been missing from web archives and music history records for nearly 30 years. These primary sources will likely help correct distorted accounts of music history.  
 I have updated the Japanese [Wikipedia](https://w.wiki/MkrW) page as well.
 
