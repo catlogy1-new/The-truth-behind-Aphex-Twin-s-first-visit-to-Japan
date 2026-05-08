@@ -4,7 +4,6 @@ Description: Based on primary sources, this work documents Apex Twin’s first t
 keywords: Aphex Twin, 1997, Japan Tour, music history, Bayside Jenny, Liquid Room  
 image: Archive of the original flyer for Aphex Twin's first live tour in Japan in 1997 (https://archive.org/details/AphexTwin_Flyer)  
 canonical_url: https://catlogy1-new.github.io/The-truth-behind-Aphex-Twin-s-first-visit-to-Japan/  
-meta name="google-site-verification" content="mwb_UhKqfJnvFvv3nfeFMydG973-XIHCXfgFX2cbO9A" 
 ---  
 
 # Aphex Twin Japan Tour 1997: Rediscovering the "Lost" Schedule after 29 Years   
