@@ -40,7 +40,7 @@ he schedule for Aphex Twin's first-ever Japan tour—which had been lost to musi
 - DJ: [Grant](https://en.wikipedia.org/wiki/Jono_Grant_(DJ) )  
 - Opening Live Act: [Cylob](https://en.wikipedia.org/wiki/Cylob)
 
-## 2.Booking Agents
+### 2.Booking Agents
 
 - BA: Chaotica  
 - BA: [Value Added Talent (U.K.)](https://vathq.co.uk/)  
