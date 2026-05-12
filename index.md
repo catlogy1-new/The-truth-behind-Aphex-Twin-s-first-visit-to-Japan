@@ -77,6 +77,8 @@ QuickJapan Vol.13  has been converted to PDF—including the cover, back cover, 
 
 - *[QuickJapan Vol.13 Archive](https://archive.org/details/1997-04-25-quickjapan-vol-13pdf)*
 ## Visiting Japan for a DJ set
+Before coming to Japan as a solo live act in 1997, Richard D. James had visited the country several times as a DJ at club events.
+<img width="586" height="50" alt="image" src="https://github.com/user-attachments/assets/8d95e0b2-9ca2-4322-b732-b56f131245c1" />
 
 ## Note
 - It took a tremendous amount of effort to verify the schedule for Aphex Twin's first visit to Japan, which had been missing from web archives and music history records for nearly 30 years.These primary sources will likely help correct the distorted accounts of music history.  
