@@ -71,7 +71,7 @@ I unearthed it around March 2026 and saved it to the Internet Archive.
 
 
 ### 3. Quick Japan vol.13 (April 25, 1997)
-In[ Quick Japan Vol.13] (https://www.ohtabooks.com/qj100/archives/013/ )(ISBN 4-87233-329-2), a subculture magazine published by Ohta Publishing in Japan, there is a record of a conversation with Aphex Twin (Richard D. James) and Yanmata EYE (known as "Yanmata Eye," an artist and musician), pages 88–90.
+In[Quick Japan Vol 13](https://www.ohtabooks.com/qj100/archives/013/ )(ISBN 4-87233-329-2), a subculture magazine published by Ohta Publishing in Japan, there is a record of a conversation with Aphex Twin (Richard D. James) and Yanmata EYE (known as "Yanmata Eye," an artist and musician), pages 88–90.
 
 QuickJapan Vol.13  has been converted to PDF—including the cover, back cover, table of contents, dated color live photos, and the Aphex Twin and Yanmata EYE interview on pages 88–90—and saved to the Internet Archive.
 
@@ -82,6 +82,8 @@ Before coming to Japan as a solo live act in 1997, Richard D. James had visited 
   
   According to the music magazine *ele-king Magazine Vol. 1*, published on April 1, 1995, he is said to have visited Japan as one of the DJs for the techno event “Megadog”. organized by “The Megadog Organisation”. However, the magazine contains no information about the event itself, and this account survives only as a record based on the recollections of a single music writer. 
 Consequently, the date, time, and venue of this event remain entirely unknown in official records, and there is absolutely no evidence to support it.
+
+- *[PDF of the Aphex Twin interview section from ele-king Magazine Vol. 1/published by Ele ments Publishing Co., Ltd., released on April 1, 1995](https://archive.org/details/ele-king)*
 
 
 
