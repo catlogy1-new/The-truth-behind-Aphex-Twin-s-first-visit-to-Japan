@@ -76,7 +76,7 @@ In[ Quick Japan Vol.13] (https://www.ohtabooks.com/qj100/archives/013/ )(ISBN 4-
 QuickJapan Vol.13  has been converted to PDF—including the cover, back cover, table of contents, dated color live photos, and the Aphex Twin and Yanmata EYE interview on pages 88–90—and saved to the Internet Archive.
 
 - *[QuickJapan Vol.13 Archive](https://archive.org/details/1997-04-25-quickjapan-vol-13pdf)*
-
+## Visiting Japan for a DJ set
 
 ## Note
 - It took a tremendous amount of effort to verify the schedule for Aphex Twin's first visit to Japan, which had been missing from web archives and music history records for nearly 30 years.These primary sources will likely help correct the distorted accounts of music history.  
