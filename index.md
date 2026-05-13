@@ -87,6 +87,20 @@ Consequently, the date, time, and venue of this event remain entirely unknown in
 - *[Web article “Aphex Twin Live Stream” by music writer Tadashi Mita (April 19, 2026)](https://www.ele-king.net/review/sound_patrol/007140/)*
 - *[The Megadog Organisation Official Website](http://www.megadog.co.uk/index.html)*
 
+### 2. November 24, 1995 (Friday)  
+He visited Japan to perform as one of the support acts (opening DJs) for [LFO](https://w.wiki/N5Vd) and [Plaid](https://w.wiki/N5Vj) at “WARP NIGHT,” an event organized by [Sony Music Entertainment](https://www.sonymusic.co.jp/) at Shinjuku Liquidroom. The event was listed on Sony's official website, where the live recordings are still available for streaming. **Consequently, this event stands as the oldest extant primary source documenting Aphex Twin's visit to Japan.**  
+
+- *[Sony Music's Official “WARP NIGHT” Website](https://www.sonymusic.co.jp/Music/Info/SonyTechno/feature/9710/6-frame.html)*
+
+### 3.November 19, 1996 (Saturday)  
+He came to Japan to perform as one of the DJs at an event called “Megadog” held at Shinjuku Liquidroom. An official video of the event has been released, so details such as the date, time, and venue can be verified. Since Aphex Twin was not yet well-known at the time, [Eat Static](https://w.wiki/N5WF) appears to have been billed as the headliner.  
+
+- *[Megadog in Tokyo with Eat Static, Banco de Gaia and The Aphex Twin](https://www.youtube.com/watch?v=PvgY_Drvy8E)* 
+
+
+
+
+
 
 
  
