@@ -71,9 +71,9 @@ I unearthed it around March 2026 and saved it to the Internet Archive.
 
 
 ### 3. Quick Japan vol.13 (April 25, 1997)
-In[Quick Japan Vol 13](https://www.ohtabooks.com/qj100/archives/013/ )(ISBN 4-87233-329-2), a subculture magazine published by Ohta Publishing in Japan, there is a record of a conversation with Aphex Twin (Richard D. James) and Yanmata EYE (known as "Yanmata Eye," an artist and musician), pages 88–90.The headline on pages 88–89 of the magazine reads, “And this January, he finally came to Japan for a live performance,” confirming that this was Aphex Twin’s first visit to Japan as a live act on that same day of the same year.
+In[Quick Japan Vol 13](https://www.ohtabooks.com/qj100/archives/013/ )(ISBN 4-87233-329-2), a subculture magazine published by Ohta Publishing in Japan, there is a record of a conversation with Aphex Twin (Richard D. James) and [Yamantaka Eye](https://w.wiki/NE3y) (known as "Yamantaka Eye," an artist and musician), pages 88–90.The headline on pages 88–89 of the magazine reads, “And this January, he finally came to Japan for a live performance,” confirming that this was Aphex Twin’s first visit to Japan as a live act on that same day of the same year.
 
-QuickJapan Vol.13  has been converted to PDF—including the cover, back cover, table of contents, dated color live photos, and the Aphex Twin and Yanmata EYE interview on pages 88–90—and saved to the Internet Archive.
+QuickJapan Vol.13  has been converted to PDF—including the cover, back cover, table of contents, dated color live photos, and the Aphex Twin and Yamantaka Eye interview on pages 88–90—and saved to the Internet Archive.
 
 - *[QuickJapan Vol.13 Archive](https://archive.org/details/1997-04-25-quickjapan-vol-13pdf)*
  
