@@ -3,7 +3,7 @@ title: Aphex Twin Japan Tour 1997 - Filling the 29-Year Gap with Evidence
 Description: Based on primary sources, this work documents Apex Twin’s first tour of Japan in 1997, an event that had been lost to music history for approximately 30 years.  
 keywords: Aphex Twin, 1997, Japan Tour, music history, Bayside Jenny, Liquid Room  
 image: Archive of the original flyer for Aphex Twin's first live tour in Japan in 1997 (https://archive.org/details/AphexTwin_Flyer)  
-canonical_url: https://catlogy1-new.github.io/The-truth-behind-Aphex-Twin-s-first-visit-to-Japan/
+canonical_url: https://catlogy1-new.github.io/The-truth-behind-Aphex-Twin-s-first-visit-to-Japan/  
 ---  
 
 # Aphex Twin Japan Tour 1997: Rediscovering the "Lost" Schedule after 29 Years   
@@ -17,7 +17,7 @@ canonical_url: https://catlogy1-new.github.io/The-truth-behind-Aphex-Twin-s-firs
   
 This page documents verified evidence of Aphex Twin's 1997 Japan tour, including the Osaka Bayside Jenny show on January 30, 1997. Contrary to widely circulated misinformation, this article is based on verified primary sources such as magazines and original flyers from that era.
 This serves as a corrected historical record.  
-Also, this is the official mirror of the code snippet from my Dev.to article. That's because it's a highly valuable piece of research that corrects a 29-year-old misconception in music history. For more information about Dev.to, please click here:[Proof of Aphex Twin's first-ever Japan tour schedule, which had been lost to music history for 29 years](https://dev.to/nekogaku/the-real-first-aphex-twin-live-pa-show-in-japan-osaka-bayside-jenny-january-30-1997-2533)  
+Also, this is the official mirror of the code snippet from my Dev.to article. That's because it's a highly valuable piece of research that corrects a 29-year-old misconception in music history. For more information about Dev.to, please click here::[Proof of Aphex Twin's first-ever Japan tour schedule, which had been lost to music history for 29 years](https://dev.to/nekogaku/the-real-first-aphex-twin-live-pa-show-in-japan-osaka-bayside-jenny-january-30-1997-2533)  
 
 he schedule for Aphex Twin's first-ever Japan tour—which had been lost to music history for 29 years—is as follows.
 
@@ -71,13 +71,32 @@ I unearthed it around March 2026 and saved it to the Internet Archive.
 
 
 ### 3. Quick Japan vol.13 (April 25, 1997)
-In[ Quick Japan Vol.13] (https://www.ohtabooks.com/qj100/archives/013/ )(ISBN 4-87233-329-2), a subculture magazine published by Ohta Publishing in Japan, there is a record of a conversation with Aphex Twin (Richard D. James) and Yanmata EYE (known as "Yanmata Eye," an artist and musician), pages 88–90.
+In[Quick Japan Vol 13](https://www.ohtabooks.com/qj100/archives/013/ )(ISBN 4-87233-329-2), a subculture magazine published by Ohta Publishing in Japan, there is a record of a conversation with Aphex Twin (Richard D. James) and Yanmata EYE (known as "Yanmata Eye," an artist and musician), pages 88–90.The headline on pages 88–89 of the magazine reads, “And this January, he finally came to Japan for a live performance,” confirming that this was Aphex Twin’s first visit to Japan as a live act on that same day of the same year.
 
 QuickJapan Vol.13  has been converted to PDF—including the cover, back cover, table of contents, dated color live photos, and the Aphex Twin and Yanmata EYE interview on pages 88–90—and saved to the Internet Archive.
 
 - *[QuickJapan Vol.13 Archive](https://archive.org/details/1997-04-25-quickjapan-vol-13pdf)*
+ 
+## Visiting Japan for a DJ set
+Before coming to Japan as a solo live act in 1997, Richard D. James had visited the country several times as a DJ at club events.  
+### 1. Year 1994 (date, time, venue, etc. unknown)
+  According to the music magazine *ele-king Magazine Vol. 1*, published on April 1, 1995, he is said to have visited Japan as one of the DJs for the techno event “Megadog”. organized by “The Megadog Organisation”. However, the magazine contains no information about the event itself, and this account survives only as a record based on the recollections of a single music writer. 
+Consequently, the date, time, and venue of this event remain entirely unknown in official records, and there is absolutely no evidence to support it.
 
+- *[PDF of the Aphex Twin interview section from “ele-king Magazine Vol.1-released on April,1 1995” ](https://archive.org/details/ele-king)*
+- *[Web article “Aphex Twin Live Stream” by music writer Tadashi Mita (April 19, 2026)](https://www.ele-king.net/review/sound_patrol/007140/)*
+- *[The Megadog Organisation Official Website](http://www.megadog.co.uk/index.html)*
 
+### 2. November 24, 1995 (Friday)  
+He visited Japan to perform as one of the support acts (opening DJs) for [LFO](https://w.wiki/N5Vd) and [Plaid](https://w.wiki/N5Vj) at “WARP NIGHT,” an event organized by [Sony Music Entertainment](https://www.sonymusic.co.jp/) at Shinjuku Liquidroom. The event was listed on Sony's official website, where the live recordings are still available for streaming. **Consequently, this event stands as the oldest extant primary source documenting Aphex Twin's visit to Japan.**  
+
+- *[Sony Music's Official “WARP NIGHT” Website](https://www.sonymusic.co.jp/Music/Info/SonyTechno/feature/9710/6-frame.html)*
+
+### 3.November 19, 1996 (Saturday)  
+He came to Japan to perform as one of the DJs at an event called “Megadog” held at Shinjuku Liquidroom. An official video of the event has been released, so details such as the date, time, and venue can be verified. Since Aphex Twin was not yet well-known at the time, [Eat Static](https://w.wiki/N5WF) appears to have been billed as the headliner.  
+
+- *[Megadog in Tokyo with Eat Static, Banco de Gaia and The Aphex Twin](https://www.youtube.com/watch?v=PvgY_Drvy8E)*
+  
 ## Note
 - It took a tremendous amount of effort to verify the schedule for Aphex Twin's first visit to Japan, which had been missing from web archives and music history records for nearly 30 years.These primary sources will likely help correct the distorted accounts of music history.  
 I've updated the Japanese [Wikipedia](https://w.wiki/MkrW) page as well. Aphex Twin fan sites and setlist sites have also made changes based on my contributions. Thank you.  
