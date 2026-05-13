@@ -83,7 +83,7 @@ Before coming to Japan as a solo live act in 1997, Richard D. James had visited 
   According to the music magazine *ele-king Magazine Vol. 1*, published on April 1, 1995, he is said to have visited Japan as one of the DJs for the techno event “Megadog”. organized by “The Megadog Organisation”. However, the magazine contains no information about the event itself, and this account survives only as a record based on the recollections of a single music writer. 
 Consequently, the date, time, and venue of this event remain entirely unknown in official records, and there is absolutely no evidence to support it.
 
-- *[PDF of the Aphex Twin interview section from “ele-king Magazine Vol.1-released on April,1 1995” ](https://archive.org/details/ele-king)*
+- *[PDF of the Aphex Twin interview section from “ele-king Magazine Vol.1-released on April,1 1995”](https://archive.org/details/ele-king)*
 - *[Web article “Aphex Twin Live Stream” by music writer Tadashi Mita (April 19, 2026)](https://www.ele-king.net/review/sound_patrol/007140/)*
 - *[The Megadog Organisation Official Website](http://www.megadog.co.uk/index.html)*
 
