@@ -76,17 +76,18 @@ In[Quick Japan Vol 13](https://www.ohtabooks.com/qj100/archives/013/ )(ISBN 4-87
 QuickJapan Vol.13  has been converted to PDF—including the cover, back cover, table of contents, dated color live photos, and the Aphex Twin and Yanmata EYE interview on pages 88–90—and saved to the Internet Archive.
 
 - *[QuickJapan Vol.13 Archive](https://archive.org/details/1997-04-25-quickjapan-vol-13pdf)*
+ 
 ## Visiting Japan for a DJ set
 Before coming to Japan as a solo live act in 1997, Richard D. James had visited the country several times as a DJ at club events.  
-- ### Year 1994 (date, time, venue, etc. unknown)
-  
+### 1. Year 1994 (date, time, venue, etc. unknown)
   According to the music magazine *ele-king Magazine Vol. 1*, published on April 1, 1995, he is said to have visited Japan as one of the DJs for the techno event “Megadog”. organized by “The Megadog Organisation”. However, the magazine contains no information about the event itself, and this account survives only as a record based on the recollections of a single music writer. 
 Consequently, the date, time, and venue of this event remain entirely unknown in official records, and there is absolutely no evidence to support it.
 
-- *[PDF of the Aphex Twin interview section from ele-king Magazine Vol.1/ published by Ele ments Publishing  Co.Ltd.released on April 1,1995](https://archive.org/details/ele-king)*
-- *[Web article by music writer Itaru Mita, “Aphex Twin Live Stream”(April 19, 2026)](https://archive.org/details/ele-king)*
+- *[PDF of the Aphex Twin interview section from “ele-king Magazine Vol.1-released on April,1 1995” ](https://archive.org/details/ele-king)*
+- *[Web article “Aphex Twin Live Stream” by music writer Tadashi Mita (April 19, 2026)](https://www.ele-king.net/review/sound_patrol/007140/)*
+- *[The Megadog Organisation Official Website](http://www.megadog.co.uk/index.html)*
 
-- November 24, 1995 (Friday)
+
 
  
 
