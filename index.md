@@ -95,17 +95,8 @@ He visited Japan to perform as one of the support acts (opening DJs) for [LFO](h
 ### 3.November 19, 1996 (Saturday)  
 He came to Japan to perform as one of the DJs at an event called “Megadog” held at Shinjuku Liquidroom. An official video of the event has been released, so details such as the date, time, and venue can be verified. Since Aphex Twin was not yet well-known at the time, [Eat Static](https://w.wiki/N5WF) appears to have been billed as the headliner.  
 
-- *[Megadog in Tokyo with Eat Static, Banco de Gaia and The Aphex Twin](https://www.youtube.com/watch?v=PvgY_Drvy8E)* 
-
-
-
-
-
-
-
- 
-
-
+- *[Megadog in Tokyo with Eat Static, Banco de Gaia and The Aphex Twin](https://www.youtube.com/watch?v=PvgY_Drvy8E)*
+  
 ## Note
 - It took a tremendous amount of effort to verify the schedule for Aphex Twin's first visit to Japan, which had been missing from web archives and music history records for nearly 30 years.These primary sources will likely help correct the distorted accounts of music history.  
 I've updated the Japanese [Wikipedia](https://w.wiki/MkrW) page as well. Aphex Twin fan sites and setlist sites have also made changes based on my contributions. Thank you.  
