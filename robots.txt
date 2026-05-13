@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:  
 
-Sitemap: https://catlogy1-new.github.io/The-truth-behind-Aphex-Twin-s-first-visit-to-Japan/sitemap.xml
+Sitemap: https://catlogy1-new.github.io/The-truth-behind-Aphex-Twin-s-first-visit-to-Japan/sitemap.xml  
