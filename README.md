@@ -111,6 +111,7 @@ In contrast, there are multiple accounts stating that the [Osaka show](https://d
 
  - Note that I have written a similar post on the Japanese free blogging service [note](https://note.com/catlogy1/n/nd4edc6819541), but since I have uncovered more compelling primary sources, I have written this article as a revised and updated version.  
 
+  
 *May 5, 2026, from Japan.*
 
 <script type="application/ld+json">
