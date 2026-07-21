@@ -67,7 +67,7 @@ The physical flyer for the January 30 event at Bayside Jenny. This is the strong
 The details, including the date, venue, start time, and opening acts, are clearly listed.  
 I unearthed it around March 2026 and saved it to the Internet Archive.  
 
-- *[Archive of the original flyer for Aphex Twin's first live tour in Japan in 1997](https://archive.org/details/AphexTwin_Flyer)*
+- *[Archive of the original flyer for Aphex Twin's first live tour in Japan in 1997](https://archive.org/details/aphex-twin-flyer)*
 
 
 ### 3. Quick Japan vol.13 (April 25, 1997)
