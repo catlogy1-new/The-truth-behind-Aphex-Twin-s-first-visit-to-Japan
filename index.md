@@ -2,14 +2,14 @@
 title: Aphex Twin Japan Tour 1997 - Filling the 29-Year Gap with Evidence  
 Description: Based on primary sources, this work documents Apex Twin’s first tour of Japan in 1997, an event that had been lost to music history for approximately 30 years.  
 keywords: Aphex Twin, 1997, Japan Tour, music history, Bayside Jenny, Liquid Room  
-image: Archive of the original flyer for Aphex Twin's first live tour in Japan in 1997 (https://archive.org/details/AphexTwin_Flyer)  
+image: Archive of the original flyer for Aphex Twin's first live tour in Japan in 1997 (https://archive.org/details/aphex-twin-flyer)  
 canonical_url: https://catlogy1-new.github.io/The-truth-behind-Aphex-Twin-s-first-visit-to-Japan/  
 ---  
 
 # Aphex Twin Japan Tour 1997: Rediscovering the "Lost" Schedule after 29 Years   
 
 <p align="center">  
-  <img width="800" alt="Aphex Twin  1997  Japan Tour  Flye" src="Aphex Twin - Flyer.jpg">  
+  <img width="800" alt="Aphex Twin  1997  Japan Tour  Flye" src="Aphex Twin-Flyer.jpg">  
 </p>
 
 ## Summary
@@ -67,7 +67,7 @@ The physical flyer for the January 30 event at Bayside Jenny. This is the strong
 The details, including the date, venue, start time, and opening acts, are clearly listed.  
 I unearthed it around March 2026 and saved it to the Internet Archive.  
 
-- *[Archive of the original flyer for Aphex Twin's first live tour in Japan in 1997](https://archive.org/details/AphexTwin_Flyer)*
+- *[Archive of the original flyer for Aphex Twin's first live tour in Japan in 1997](https://archive.org/details/aphex-twin-flyer)*
 
 
 ### 3. Quick Japan vol.13 (April 25, 1997)
@@ -97,7 +97,7 @@ He came to Japan to perform as one of the DJs at an event called “Megadog” h
 
 - *[Megadog in Tokyo with Eat Static, Banco de Gaia and The Aphex Twin](https://www.youtube.com/watch?v=PvgY_Drvy8E)*
   
-## Note  
+## Note 
 - It should be noted that false information claiming Aphex Twin’s first visit to Japan was on January 2, 1997, has long been circulating. This was caused by an AI-generated hallucination resulting from a [bootleg recording purported to be from a Tokyo performance](https://youtu.be/BdT1gXnsttg?si=iyO590plEoD5RLvr) being disseminated worldwide with an incorrect date. Since Aphex Twin was in Australia on January 2, 1997, it was physically impossible for him to have performed in Tokyo on that date.     
 Furthermore, the bootleg recording in question was not from the Tokyo show at all, but rather from the Osaka show on January 30, 1997. The person who recorded that audio has since uploaded a clearer, [original version](https://archive.org/details/aphex-twin_1997-01-30-Osaka-BAYSIDEJenny) with the correct date and venue name.
 
