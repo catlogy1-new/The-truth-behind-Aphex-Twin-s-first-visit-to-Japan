@@ -9,7 +9,7 @@ canonical_url: https://catlogy1-new.github.io/The-truth-behind-Aphex-Twin-s-firs
 # Aphex Twin Japan Tour 1997: Rediscovering the "Lost" Schedule after 29 Years   
 
 <p align="center">  
-  <img width="800" alt="Aphex Twin  1997  Japan Tour  Flye" src="Aphex Twin - Flyer.jpg">  
+  <img width="800" alt="Aphex Twin  1997  Japan Tour  Flye" src="Aphex Twin-Flyer.jpg">  
 </p>
 
 ## Summary
