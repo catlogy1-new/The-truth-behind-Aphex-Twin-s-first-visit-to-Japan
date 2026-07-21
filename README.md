@@ -15,7 +15,7 @@ canonical_url: https://catlogy1-new.github.io/The-truth-behind-Aphex-Twin-s-firs
 ## Summary
 - **Reconstruction of Aphex Twin's 1997 Japan tour using primary sources.**  
   
-This page documents verified evidence of Aphex Twin's 1997 Japan tour, including the Osaka Bayside Jenny show on January 30, 1997.  
+This page documents verified evidence of Aphex Twin's 1997 Japan tour, including the Osaka Bayside Jenny show on January 30, 1997.  <br>
 Contrary to widely circulated misinformation, this article is based on verified primary sources such as magazines and original flyers from that era.
 This serves as a corrected historical record.  <br>
 Also, this is the official mirror of the code snippet from my Dev.to article.  <br> 
