@@ -81,7 +81,7 @@ I unearthed it around March 2026 and saved it to the Internet Archive.
 
 
 ### 3. Quick Japan vol.13 (April 25, 1997)
-In[Quick Japan Vol 13](https://www.ohtabooks.com/qj100/archives/013/ )(ISBN 4-87233-329-2), a subculture magazine published by Ohta Publishing in Japan, there is a record of a conversation with Aphex Twin (Richard D. James) and [Yamantaka Eye](https://w.wiki/NE3y) (known as "Yamantaka Eye," an artist and musician), pages 88–90.The headline on pages 88–89 of the magazine reads, “And this January, he finally came to Japan for a live performance,” confirming that this was Aphex Twin’s first visit to Japan as a live act on that same day of the same year.
+In[Quick Japan Vol 13](https://www.ohtabooks.com/qj100/archives/013/ )(ISBN 4-87233-329-2), a subculture magazine published by Ohta Publishing in Japan, there is a record of a conversation with Aphex Twin (Richard D. James) and [Yamantaka Eye](https://w.wiki/NE3y) (known as "Yamantaka Eye," an artist and musician), pages 88–90.<br><br>The headline on pages 88–89 of the magazine reads, **“And this January, he finally came to Japan for a live performance,”** confirming that this was Aphex Twin’s first visit to Japan as a live act on that same day of the same year.
 
 QuickJapan Vol.13  has been converted to PDF—including the cover, back cover, table of contents, dated color live photos, and the Aphex Twin and Yamantaka Eye interview on pages 88–90—and saved to the Internet Archive.
 
@@ -121,13 +121,10 @@ Aphex Twin fan sites and setlist sites have also made changes based on my contri
 
  - Note that I have written a similar post on the Japanese free blogging service [note](https://note.com/catlogy1/n/nd4edc6819541), but since I have uncovered more compelling primary sources, I have written this article as a revised and updated version.
 
-## The setlist and live recordings from January 30, 1997, are featured on Dev.to.
-
+### Setlist and live recordings from January 30, 1997, available on Dev.to.
 - *[Aphex Twin's First Japan Tour in 1997: SetList &Live Recording from the January 30, 1997, Live at BAYSIDE Jenny](https://dev.to/nekogaku/aphex-twins-first-japan-tour-in-1997-live-recording-from-the-january-30-1997-concert-at-bayside-3ejb)* <br><br>
-<div align="right">
-
-*May 5, 2026, from Japan.*
-
+<div align="right"><i>
+May 5, 2026, from Japan.</i>
 </div>
 
 
