@@ -91,7 +91,7 @@ QuickJapan Vol.13  has been converted to PDF—including the cover, back cover, 
 ## Visiting Japan for a DJ set
 Before coming to Japan as a solo live act in 1997, Richard D. James had visited the country several times as a DJ at club events.  
 ### 1. Year 1994 (date, time, venue, etc. unknown)
-  According to the music magazine *ele-king Magazine Vol. 1*, published on April 1, 1995, he is said to have visited Japan as one of the DJs for the techno event “Megadog”. organized by “The Megadog Organisation”.<br><br> However, the magazine contains no information about the event itself, and this account survives only as a record based on the recollections of a single music writer. <br>
+  According to the music magazine *ele-king Magazine Vol. 1*, published on April 1, 1995, he is said to have visited Japan as one of the DJs for the techno event “Megadog”. <br>organized by “The Megadog Organisation”.<br><br> However, the magazine contains no information about the event itself, and this account survives only as a record based on the recollections of a single music writer. <br>
 Consequently, the date, time, and venue of this event remain entirely unknown in official records, and there is absolutely no evidence to support it.
 
 - *[PDF of the Aphex Twin interview section from “ele-king Magazine Vol.1-released on April,1 1995”](https://archive.org/details/ele-king)*
@@ -99,18 +99,18 @@ Consequently, the date, time, and venue of this event remain entirely unknown in
 - *[The Megadog Organisation Official Website](http://www.megadog.co.uk/index.html)*
 
 ### 2. November 24, 1995 (Friday)  
-He visited Japan to perform as one of the support acts (opening DJs) for [LFO](https://w.wiki/N5Vd) and [Plaid](https://w.wiki/N5Vj) at “WARP NIGHT,” an event organized by [Sony Music Entertainment](https://www.sonymusic.co.jp/) at Shinjuku Liquidroom. The event was listed on Sony's official website, where the live recordings are still available for streaming. **Consequently, this event stands as the oldest extant primary source documenting Aphex Twin's visit to Japan.**  
+He visited Japan to perform as one of the support acts (opening DJs) for [LFO](https://w.wiki/N5Vd) and [Plaid](https://w.wiki/N5Vj) at “WARP NIGHT,” an event organized by [Sony Music Entertainment](https://www.sonymusic.co.jp/) at Shinjuku Liquidroom.<br> The event was listed on Sony's official website, where the live recordings are still available for streaming.<br> **Consequently, this event stands as the oldest extant primary source documenting Aphex Twin's visit to Japan.**  
 
 - *[Sony Music's Official “WARP NIGHT” Website](https://www.sonymusic.co.jp/Music/Info/SonyTechno/feature/9710/6-frame.html)*
 
 ### 3. November 19, 1996 (Saturday)  
-He came to Japan to perform as one of the DJs at an event called “Megadog” held at Shinjuku Liquidroom. An official video of the event has been released, so details such as the date, time, and venue can be verified.<br> Since Aphex Twin was not yet well-known at the time, [Eat Static](https://w.wiki/N5WF) appears to have been billed as the headliner.  
+He came to Japan to perform as one of the DJs at an event called “Megadog” held at Shinjuku Liquidroom.<br> An official video of the event has been released, so details such as the date, time, and venue can be verified.<br> Since Aphex Twin was not yet well-known at the time, [Eat Static](https://w.wiki/N5WF) appears to have been billed as the headliner.  
 
 - *[Megadog in Tokyo with Eat Static, Banco de Gaia and The Aphex Twin](https://www.youtube.com/watch?v=PvgY_Drvy8E)*
   
 ## Note 
 - It should be noted that false information claiming Aphex Twin’s first visit to Japan was on January 2, 1997, has long been circulating.<br>This was caused by an AI-generated hallucination resulting from a [bootleg recording purported to be from a Tokyo performance](https://youtu.be/BdT1gXnsttg?si=iyO590plEoD5RLvr) being disseminated worldwide with an incorrect date.<br> <br> Since Aphex Twin was in Australia on January 2, 1997, it was physically impossible for him to have performed in Tokyo on that date. <br><br>Furthermore, the bootleg recording in question was not from the Tokyo show at all, but rather from the Osaka show on January 30, 1997.  
-The person who recorded that audio has since uploaded a clearer, [original version](https://archive.org/details/aphex-twin_1997-01-30-Osaka-BAYSIDEJenny) with the correct date and venue name.
+The person who recorded that audio has <br>since uploaded a clearer, [original version](https://archive.org/details/aphex-twin_1997-01-30-Osaka-BAYSIDEJenny) with the correct date and venue name.
 
 - It took a tremendous amount of effort to verify the schedule for Aphex Twin's first visit to Japan, which had been missing from web archives and music history records for nearly 30 years.<br><br>These primary sources will likely help correct the distorted accounts of music history.<br><br>
 I've updated the Japanese [Wikipedia](https://w.wiki/MkrW) page as well.  
@@ -122,7 +122,7 @@ Aphex Twin fan sites and setlist sites have also made changes based on my contri
 
  - Note that I have written a similar post on the Japanese free blogging service [note](https://note.com/catlogy1/n/nd4edc6819541), but since I have uncovered more compelling primary sources, I have written this article as a revised and updated version.
 
-### Setlist and live recordings from January 30, 1997, available on Dev.to.
+### ◎Setlist and live recordings from January 30, 1997, available on Dev.to.
 - *[Aphex Twin's First Japan Tour in 1997: SetList &Live Recording from the January 30, 1997, Live at BAYSIDE Jenny](https://dev.to/nekogaku/aphex-twins-first-japan-tour-in-1997-live-recording-from-the-january-30-1997-concert-at-bayside-3ejb)* <br><br>
 <div align="right"><i>
  May 5, 2026, from Japan. </i>
