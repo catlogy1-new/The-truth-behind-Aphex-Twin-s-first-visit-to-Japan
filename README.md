@@ -123,8 +123,8 @@ Aphex Twin fan sites and setlist sites have also made changes based on my contri
 
 ## The setlist and live recordings from January 30, 1997, are featured on Dev.to.
 
-- *[Aphex Twin's First Japan Tour in 1997: SetList &Live Recording from the January 30, 1997, Live at BAYSIDE Jenny](https://dev.to/nekogaku/aphex-twins-first-japan-tour-in-1997-live-recording-from-the-january-30-1997-concert-at-bayside-3ejb)* <br><br><br>
-<p align="right">*May 5, 2026, from Japan.*</p>
+- *[Aphex Twin's First Japan Tour in 1997: SetList &Live Recording from the January 30, 1997, Live at BAYSIDE Jenny](https://dev.to/nekogaku/aphex-twins-first-japan-tour-in-1997-live-recording-from-the-january-30-1997-concert-at-bayside-3ejb)* <br><br>
+*<p align="right">May 5, 2026, from Japan.</p>*
 
 <script type="application/ld+json">
 {
