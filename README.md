@@ -90,7 +90,7 @@ QuickJapan Vol.13  has been converted to PDF—including the cover, back cover, 
 ## Visiting Japan for a DJ set
 Before coming to Japan as a solo live act in 1997, Richard D. James had visited the country several times as a DJ at club events.  
 ### 1. Year 1994 (date, time, venue, etc. unknown)
-  According to the music magazine *ele-king Magazine Vol. 1*, published on April 1, 1995, he is said to have visited Japan as one of the DJs for the techno event “Megadog”. organized by “The Megadog Organisation”.<br> However, the magazine contains no information about the event itself, and this account survives only as a record based on the recollections of a single music writer. <br>
+  According to the music magazine *ele-king Magazine Vol. 1*, published on April 1, 1995, he is said to have visited Japan as one of the DJs for the techno event “Megadog”. organized by “The Megadog Organisation”.<br><br> However, the magazine contains no information about the event itself, and this account survives only as a record based on the recollections of a single music writer. <br>
 Consequently, the date, time, and venue of this event remain entirely unknown in official records, and there is absolutely no evidence to support it.
 
 - *[PDF of the Aphex Twin interview section from “ele-king Magazine Vol.1-released on April,1 1995”](https://archive.org/details/ele-king)*
