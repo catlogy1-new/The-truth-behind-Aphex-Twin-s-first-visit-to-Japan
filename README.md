@@ -121,7 +121,7 @@ Aphex Twin fan sites and setlist sites have also made changes based on my contri
 
  - Note that I have written a similar post on the Japanese free blogging service [note](https://note.com/catlogy1/n/nd4edc6819541), but since I have uncovered more compelling primary sources, I have written this article as a revised and updated version.
 
-##The setlist and live recordings from January 30, 1997, are featured on Dev.to.
+## The setlist and live recordings from January 30, 1997, are featured on Dev.to.
 
 ･ *[Aphex Twin's First Japan Tour in 1997: SetList &Live Recording from the January 30, 1997, Live at BAYSIDE Jenny](https://dev.to/nekogaku/aphex-twins-first-japan-tour-in-1997-live-recording-from-the-january-30-1997-concert-at-bayside-3ejb)*
 
