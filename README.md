@@ -251,9 +251,9 @@ He came to Japan to perform as one of the DJs at an event called “Megadog” h
 - *[Megadog in Tokyo with Eat Static, Banco de Gaia and The Aphex Twin](https://www.youtube.com/watch?v=PvgY_Drvy8E)*
   
 ## Note 
-- It should be noted that false information claiming Aphex Twin’s first visit to Japan was on January 2, 1997, has long been circulating. This was caused by an AI-generated hallucination resulting from a [bootleg recording purported to be from a Tokyo performance](https://youtu.be/BdT1gXnsttg?si=iyO590plEoD5RLvr) being disseminated worldwide with an incorrect date.
+- It should be noted that false information claiming Aphex Twin’s first visit to Japan was on January 2, 1997, has long been circulating.<br> This was caused by an AI-generated hallucination resulting from a [bootleg recording purported to be from a Tokyo performance](https://youtu.be/BdT1gXnsttg?si=iyO590plEoD5RLvr) being disseminated worldwide with an incorrect date.
   
-- Since Aphex Twin was in Australia on January 2, 1997, it was physically impossible for him to have performed in Tokyo on that date.     
+- Since Aphex Twin was in Australia on January 2, 1997, it was physically impossible for him to have performed in Tokyo on that date.   <br>  
 Furthermore, the bootleg recording in question was not from the Tokyo show at all, but rather from the Osaka show on January 30, 1997. The person who recorded that audio has since uploaded a clearer, [original version](https://archive.org/details/aphex-twin_1997-01-30-Osaka-BAYSIDEJenny) with the correct date and venue name.
 
 - It took a tremendous amount of effort to verify the schedule for Aphex Twin's first visit to Japan, which had been missing from web archives and music history records for nearly 30 years.
@@ -267,7 +267,10 @@ I've updated the Japanese [Wikipedia](https://w.wiki/MkrW) page as well. Aphex T
 
 - This documentation relies exclusively on verifiable primary materials. No secondary recollections or unconfirmed bootlegs.
 
- - Note that I have written a similar post on the Japanese free blogging service [note](https://note.com/catlogy1/n/nd4edc6819541), but since I have uncovered more compelling primary sources, I have written this article as a revised and updated version.  
+ - Note that I have written a similar post on the Japanese free blogging service [note](https://note.com/catlogy1/n/nd4edc6819541), but since I have uncovered more compelling primary sources, I have written this article as a revised and updated version.
+
+- The actual live performance was longer, but the camera battery ran out, so this is all I was able to record.
+<br> - *[Aphex Twin:SetList &Live Recording from the January 30, 1997, Live at BAYSIDE Jenny](https://dev.to/nekogaku/aphex-twins-first-japan-tour-in-1997-live-recording-from-the-january-30-1997-concert-at-bayside-3ejb)*
 
   
 *May 5, 2026, from Japan.*
