@@ -1,4 +1,5 @@
 ---  
+canonical: link rel="canonical" href="https://catlogy1-new.github.io/The-truth-behind-Aphex-Twin-s-first-visit-to-Japan/"
 title: Aphex Twin Japan Tour 1997 - Filling the 29-Year Gap with Evidence  
 Description: Based on primary sources, this work documents Apex Twin’s first tour of Japan in 1997, an event that had been lost to music history for approximately 30 years.  
 keywords: Aphex Twin, 1997, Japan Tour, music history, Bayside Jenny, Liquid Room  
@@ -122,8 +123,6 @@ Aphex Twin fan sites and setlist sites have also made changes based on my contri
 
  - Note that I have written a similar post on the Japanese free blogging service [note](https://note.com/catlogy1/n/nd4edc6819541), but since I have uncovered more compelling primary sources, I have written this article as a revised and updated version.
 
-## Setlist and Live Recordings from January 30, 1997, available on Dev.to.
-- *[Aphex Twin's First Japan Tour in 1997: SetList &Live Recording from the January 30, 1997, Live at BAYSIDE Jenny](https://dev.to/nekogaku/aphex-twins-first-japan-tour-in-1997-live-recording-from-the-january-30-1997-concert-at-bayside-3ejb)* <br><br>
 <div align="right"><i>
  May 5, 2026, from Japan. </i>
 </div>
